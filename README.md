@@ -1,1 +1,2 @@
 # learningEloquentJavaScript
+# chapter 1
